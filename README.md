@@ -46,20 +46,21 @@ This project showcases advanced UI design, theme switching, smooth button animat
 
 2. **Navigate to the project directory:**
    ```bash
-   `cd CalculatorJavaSwing`
+   cd CalculatorJavaSwing
 
 3. **Compile the Java source file:**
    Compile the main Java file using `javac`:
    ```bash
-   `javac Calculator.java`
+   javac Calculator.java
 
    If your code is split into multiple `.java` files, compile them all at once:
    ```bash
-   'javac *.java`
+   javac *.java
+
 4. **Run the application:**
    Launch the calculator with:
    ```bash
-   `java Calculator`
+   java Calculator
 
 ---
 
