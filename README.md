@@ -51,7 +51,6 @@ This project showcases advanced UI design, theme switching, smooth button animat
    ```
 
 3. **Compile the Java source file:**
-
    Compile the main Java file using `javac`:
    ```bash
    javac Calculator.java
@@ -63,7 +62,6 @@ This project showcases advanced UI design, theme switching, smooth button animat
    ```
 
 4. **Run the application:**
-
    Launch the calculator with:
    ```bash
    java Calculator
