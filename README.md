@@ -114,4 +114,4 @@ This project showcases advanced UI design, theme switching, smooth button animat
 Developed by **Rohini363**  
 GitHub: [Check Git Repo](https://github.com/Rohini363/CalculatorJavaSwing)
 
-Thank you for checking out Stylish Calculator!!!
+**Thank you for checking out Stylish Calculator!!!**
