@@ -53,9 +53,7 @@ This project showcases advanced UI design, theme switching, smooth button animat
    ```bash
    javac Calculator.java
 
-
-
-   If your code is split into multiple `.java` files, compile them all at once:
+   **If your code is split into multiple `.java` files, compile them all at once:**
    ```bash
    javac *.java
 
