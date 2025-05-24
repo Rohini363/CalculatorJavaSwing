@@ -50,7 +50,7 @@ This project showcases advanced UI design, theme switching, smooth button animat
    cd CalculatorJavaSwing
    ```
 
-3. **Compile the Java source file:**
+3. **Compile the Java source file:**                                                               
    Compile the main Java file using `javac`:
    ```bash
    javac Calculator.java
