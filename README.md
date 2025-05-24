@@ -65,7 +65,7 @@ This project showcases advanced UI design, theme switching, smooth button animat
    Launch the calculator with:
    ```bash
    java Calculator
-```
+   ```
 
  ### 🧰 Using an IDE (Eclipse, IntelliJ IDEA, etc.)
 
