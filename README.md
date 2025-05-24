@@ -43,10 +43,12 @@ This project showcases advanced UI design, theme switching, smooth button animat
    Open your terminal (Command Prompt / Git Bash / Terminal) and run:  
    ```bash
    git clone https://github.com/Rohini363/CalculatorJavaSwing.git
+```
 
 2. **Navigate to the project directory:**
    ```bash
    cd CalculatorJavaSwing
+```
 
 3. **Compile the Java source file:**
    Compile the main Java file using `javac`:
@@ -57,11 +59,13 @@ This project showcases advanced UI design, theme switching, smooth button animat
    If your code is split into multiple `.java` files, compile them all at once:
    ```bash
    javac *.java
+```
 
 4. **Run the application:**
    Launch the calculator with:
    ```bash
    java Calculator
+```
 
  ### 🧰 Using an IDE (Eclipse, IntelliJ IDEA, etc.)
 
