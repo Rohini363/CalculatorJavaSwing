@@ -64,7 +64,7 @@ This project showcases advanced UI design, theme switching, smooth button animat
    ```bash
    java Calculator
 
- ### 🧰 Using an IDE (Eclipse, IntelliJ IDEA, etc.):
+ ### 🧰 Using an IDE (Eclipse, IntelliJ IDEA, etc.)
 
    - You can also import the project into any Java IDE (like IntelliJ IDEA, Eclipse, or NetBeans).
 
